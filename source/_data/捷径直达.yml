@@ -1,0 +1,19 @@
+- name: lete‘s留言板
+  img: https://cdn.jsdelivr.net/gh/lete114/lete114.github.io/img/Lete.png
+  url: https://blog.lete114.top/TZK/
+  description: 有问题可以询问乐特哦！
+
+- name: Apple 查询保障服务
+  img: https://files.alexhchu.com/2020/08/18/91621410c3573.png
+  url: https://checkcoverage.apple.com/cn/zh/
+  description: Apple 查询保障服务
+
+- name: Google 高级设置
+  img: https://ae01.alicdn.com/kf/H55745a0d424543c2bc73d499ef251ce6C.png
+  url: chrome://flags/
+  description: Google浏览器的高级设置
+
+- name: 18级运营表
+  img: https://files.alexhchu.com/2020/09/03/7fcd4cca61fd5.png
+  url: https://docs.qq.com/sheet/DU0FkV2hLQWRkWWNN?tab=gj8aan
+  description: 18级运营表

@@ -1,0 +1,14 @@
+- name: Hidove API
+  url: https://api.abcyun.co/
+  img: https://ae01.alicdn.com/kf/Hc86a829fd96b43999987ad84ce4aca56N.png
+  description: Hidove Api，提供简洁、稳定、易用的Api接口。
+
+- name: 博天API
+  url: http://api.btstu.cn/
+  img: https://ae01.alicdn.com/kf/Hd8c81d03e2cb409f83aa2c940c99c678c.png
+  description: 高速稳定免费APi接口调用平台
+
+- name: alapi
+  url: https://www.alapi.net/
+  img: https://ae01.alicdn.com/kf/Hd8c81d03e2cb409f83aa2c940c99c678c.png
+  description: ALAPI,免费API服务,支持短网址缩短,快递查询,天气接口,翻译接口,网易云接口等...

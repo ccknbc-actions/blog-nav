@@ -1,0 +1,8 @@
+- name: 小康的主页
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+  url: https://xiaokang.me/
+  description: 小康的主页！
+- name: 小康博客
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+  url: https://www.antmoe.com/
+  description: 小康的个人博客主站！
