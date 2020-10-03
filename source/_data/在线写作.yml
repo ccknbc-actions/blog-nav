@@ -1,0 +1,49 @@
+- name: 秘塔写作猫
+  url: https://www.xiezuocat.com/
+  img: https://ae01.alicdn.com/kf/H61af85bcc64b4f1e99b1d9bc690fd8c8M.png
+  description: 人工智能在线写作。
+
+- name: 语雀
+  img: https://files.alexhchu.com/2020/08/18/92a49d12f7217.png
+  url: https://www.yuque.com/
+  description: 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。
+
+- name: Json Editor Online
+  url: https://jsoneditoronline.org/
+  img: https://ae01.alicdn.com/kf/Hac93258007754340927a1e0712c760ddf.png
+  description: 在线编写JSON
+
+- name: LaTeX在线：吴文中数学公式编辑器
+  url: https://latex.91maths.com/
+  img: https://ae02.alicdn.com/kf/U9105c3efda2448cf964befd3d4e9d25fO.jpg
+  description: LaTeX在线：吴文中数学公式编辑器
+
+- name: 在线Markdown
+  url: http://md.aclickall.com/
+  img: https://ae01.alicdn.com/kf/Hd20e3d0a02ee475784294994bbb21eca4.png
+  description: Markdown排版利器，还能让Markdown内容，无需作任何调整就能同时在微信公众号、博客园、掘金、csdn等平台正确显示当前预览的效果
+
+- name: 让微信排版很nice
+  url: https://mdnice.com/
+  img: https://ae01.alicdn.com/kf/H941d45ba0b9e4b1b9836e58247250047E.png
+  description: 让微信排版很nice
+
+- name: 在线绘图
+  url: https://app.diagrams.net/
+  img: https://ae01.alicdn.com/kf/Hff2bd89b9f4f4bb0a9ad966968a41c8cZ.png
+  description: diagrams.net is a free online diagramming application  and flowchart maker
+
+- name: GitMind
+  url: https://gitmind.cn/app/my
+  img: https://ae01.alicdn.com/kf/H3fdfe57175db452da1ef2221ab00c77ez.png
+  description: GitMind是一款免费在线思维导图软件，支持Windows/Mac/Linux多平台操作及内容同步。图片、链接、备注等实用工具，让你的思维导图更加生动
+
+- name: Mac代码块
+  url: https://carbon.now.sh/
+  img: https://ae01.alicdn.com/kf/Hb1c8a09d5dc34d9298dc3e13853b3ed0P.png
+  description: 快速生成MAC样式的代码块。
+
+- name: 网站缩略图
+  url: http://s.zcjun.com/
+  img: https://ae01.alicdn.com/kf/Hc23a4ccd5cb44361b85d69bcdea4ab73D.png
+  description: 网站缩略图生成

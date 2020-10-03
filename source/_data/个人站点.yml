@@ -1,0 +1,8 @@
+- name: CC的主页
+  img: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+  url: /
+  description: CC康纳百川
+- name: CC的部落格
+  img: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+  url: /butterfly/
+  description: CC的部落格

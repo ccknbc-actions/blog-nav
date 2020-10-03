@@ -1,0 +1,59 @@
+- name: docsmall
+  url: https://docsmall.com/
+  img: https://ae02.alicdn.com/kf/Ue573a7cd3c5e45c1bd673e392625d734t.jpg
+  description: 免费在线图片压缩、GIF压缩工具、PDF压缩工具、PDF合并工具、PDF分割工具
+
+- name: HTML转PUG
+  url: https://html2pug.now.sh/
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
+  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
+
+- name: CSS转scss/sass
+  url: http://css2sass.herokuapp.com/
+  img: http://css2sass.herokuapp.com/images/favicon.ico
+  description: Convert CSS Snippets to Syntactically Awesome StyleSheets code
+
+- name: 消除背景
+  url: https://www.remove.bg/zh/upload
+  img: https://ae02.alicdn.com/kf/Hfe7cd53344ad45ab826400e46d6879edd.jpg
+  description: 选择一张图片并消除背景 - 100% 全自动 - 仅用 5 秒钟 - 无需点击 - 而且免费
+
+- name: 图贴士压缩
+  url: https://www.tutieshi.com/compress/
+  img: https://ae01.alicdn.com/kf/Had9d9087f6bb42278ccc0210e02e5af47.png
+  description: 可压缩GIF、PNG、JPG格式的图片
+
+- name: picdiet
+  url: https://www.picdiet.com/zh-cn
+  img: https://ae01.alicdn.com/kf/Hdd10921408e245978f411f138a6acf5es.png
+  description: Picdiet是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏。同时我们大量的测试结果也证明其压缩表现要远好于常规的压缩软件如：jpegoptim，jpegtran，jpegrescan和jpegmini
+
+- name: tinypng
+  url: https://tinypng.com/
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/tinypng.png
+  description: Optimize your images with a perfect balance in quality and file size.
+
+- name: 最优图片优化
+  url: https://zh.recompressor.com/
+  img: https://ae01.alicdn.com/kf/Hd82702f0b80e4f3d88b321f27d14f362o.png
+  description: 可以压缩JPG与PNG、SVG
+
+- name: squoosh
+  url: https://squoosh.app/
+  img: https://ae01.alicdn.com/kf/H6aa479b05fbc4b56838a7b11af2930f6e.png
+  description: Compress and compare images with different codecs, right in your browser
+
+- name: 稿定抠图
+  url: https://www.gaoding.com
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/gaoding.png
+  description: 免费在线抠图软件,图片快速换背景-抠白底图
+
+- name: 字体子集生成器
+  url: https://en.m.fontke.com/tool/subfont/
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/b69d18f0cad47fad5fd7e9447d9a5069.png
+  description: 字客网字体子集生成器可以让用户抽出一个字体文件里想要的字，再组成精减的字体文件，十分适合制作网页字体。操作简单，快捷，只需输入想要抽取的字，之后一键生成。
+
+- name: 字体子集生成器
+  url: https://en.m.fontke.com/tool/subfont/
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/8c045fbabfb40f3ea65242502ce43de1.png
+  description: 使用此免费在线SVG 至PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单，无需安装任何软件。

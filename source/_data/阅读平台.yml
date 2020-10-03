@@ -1,0 +1,22 @@
+- name: 知乎
+  url: https://www.zhihu.com/
+  img: https://ae01.alicdn.com/kf/H98f4ee6be53d42eeb47d0c78249227b2a.png
+  description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。知乎凭借认真、专业和友善的社区氛围，结构化、易获得的优质内容，基于问答的内容生产方式和独特的社区机制，吸引、聚集了各行各业中大量的亲历者、内行人、领域专家、领域爱好者，将高质量的内容透过人的节点来成规模地生产和分享。用户通过问答等交流方式建立信任和连接，打造和提升个人影响力，并发现、获得新机会。
+- name: 掘金
+  url: https://www.juejin.im
+  img: https://ae01.alicdn.com/kf/H8c1e35710b5b44249c2b8ac1c7fb82f24.png
+  description: 掘金是一个帮助开发者成长的社区，是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货，其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时，掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户，我们相信你也可以在这里有所收获。
+- name: 思否
+  url: https://segmentfault.com/
+  img: https://ae02.alicdn.com/kf/U13e23a56793c4b278ac8ccabdd0e22f5N.jpg
+  description: SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。自社区上线以来在广大开发者群体中享有极高的口碑及影响力，以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时 SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。 腾讯、阿里、百度、美团、京东、滴滴、360等上千个技术团队已经入驻思否社区，我们也欢迎热爱技术的你一起加入交流与学习。
+
+- name: 云+社区
+  img: https://ae01.alicdn.com/kf/H63879ef7df4e4a0d8848c51b619c36195.png
+  url: https://cloud.tencent.com/developer/support-plan?invite_code=2npd39udr6kgg
+  description: 腾讯云+社区各大技术社区及平台百万级流量推广
+
+- name: Topbook | 高效生活视频书
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/946d77bfc9148a4bde39cf1e689ce52d.png
+  url: https://topbook.cc/overview
+  description: 高效生活视频书

@@ -1,0 +1,24 @@
+- name: 163邮箱
+  url: https://mail.163.com/
+  img: https://ae01.alicdn.com/kf/H578c7b5f3ded4b6e955262208c8b7e62W.png
+  description: 网易163免费邮箱--中文邮箱第一品牌。容量自动翻倍，支持50兆附件,免费开通手机号码邮箱赠送3G超大附件服务。支持各种客户端软件收发，垃圾邮件拦截率超过98%。
+- name: 网易企业邮箱
+  url: https://ym.163.com/
+  img: https://ae01.alicdn.com/kf/H578c7b5f3ded4b6e955262208c8b7e62W.png
+  description: 网易免费企业邮箱，个性化商务邮局，有域名就能创建“个性帐号@自主域名”的邮箱帐号，每域下默认创建200个帐号，拥有强大反垃圾技术，收发高速稳定，管理界面简单清晰，由中国最大的邮件系统提供商及具有十六年邮箱运营经验的网易倾力打造。
+- name: OutLook
+  url: https://outlook.live.com/mail/inbox
+  img: https://ae01.alicdn.com/kf/Hcc6463e54ff4448aa0f56f2bb0b8ed09K.png
+  description: 获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。
+- name: OutLook邮箱别名
+  url: https://account.live.com/names/Manage
+  img: https://ae01.alicdn.com/kf/Hcc6463e54ff4448aa0f56f2bb0b8ed09K.png
+  description: 为你的邮箱多加几个别名
+- name: 阿里企业邮箱
+  url: https://qiye.aliyun.com/
+  img: https://ae01.alicdn.com/kf/Heb7c49e050f441c7b70f6cefe3a5e31au.png
+  description: 阿里企业邮箱，构建在阿里云飞天平台上的企业邮箱，低至600元即可开通。行业领先的企业邮箱，3分钟开启。
+- name: 腾讯企业邮箱
+  url: https://exmail.weixin.qq.com/
+  img: https://ae01.alicdn.com/kf/Hc67e0f73ccf54f5c8e74b36a3eba5c9aa.jpg
+  description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱。
