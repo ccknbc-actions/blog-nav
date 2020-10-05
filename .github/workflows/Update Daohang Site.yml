@@ -1,11 +1,7 @@
 name: Update Daohang Site
 
 on: 
-  release:
-    types: [published]
   push:
-    tags:
-      - 'v*'
     branches: 
       - master
   workflow_dispatch:
