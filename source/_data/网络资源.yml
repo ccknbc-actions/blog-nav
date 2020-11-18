@@ -1,0 +1,32 @@
+- name: 吾爱破解论坛
+  img: https://ae01.alicdn.com/kf/H8262fca9639d4a66b00f47b3755a1f15B.png
+  url: https://www.52pojie.cn/
+  description: 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护
+- name: 果核剥壳 - 还原软件的本质
+  img: https://ae01.alicdn.com/kf/H0e53b78c59894c769d7918c31bbcb7464.png
+  url: https://www.ghpym.com/
+  description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，破解软件，安卓软件，纯净系统等。守住互联网最后的一片净土。
+- name: Fork - 安全、实用的用户脚本大全
+  img: https://ae01.alicdn.com/kf/H5d14e64fbd05449e89a21e54ac9d5fa9e.png
+  url: https://greasyfork.org/zh-CN
+  description: Greasy Fork is a free site providing user scripts to improve your web browsing experience.
+- name: 如有乐享
+  img: https://ae01.alicdn.com/kf/Hcbd96b1b172640aab1efc0c043c01205b.png
+  url: https://51.ruyo.net/
+  description: 分享是一种美德，是一种态度。
+- name: 全球主机交流论坛
+  img: https://ae01.alicdn.com/kf/H2eb2181e9d58490e800ba36259edebac2.png
+  url: https://www.hostloc.com/forum.php
+  description: 美国服务器主机交流
+- name: Epic免费游戏
+  img: https://ae01.alicdn.com/kf/Ha8b82fce51144c21bfeba7fd23407c6dc.jpg
+  url: https://www.epicgames.com/store/zh-CN/free-games
+  description: 每周白嫖，不玩也得拿。
+- name: 微软扩展市场
+  img: https://ae01.alicdn.com/kf/Hf5974b601dba4b33903c02dddf953f56f.png
+  url: https://microsoftedge.microsoft.com/
+  description: 微软家的浏览器插件市场！
+- name: 谷歌扩展市场
+  img: https://ae01.alicdn.com/kf/H45049bc315ee413f828f84ce0c6c512fu.png
+  url: https://chrome.google.com/webstore/category/extensions?hl=zh
+  description: 用来向您的浏览器添加新功能并个性化您的浏览体验的小程序

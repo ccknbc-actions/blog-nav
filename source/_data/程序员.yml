@@ -1,0 +1,29 @@
+- name: 码云
+  img: https://ae01.alicdn.com/kf/He3e95275a1e2404a97f78a8b2ac7e107x.png
+  url: https://gitee.com/
+  description: 码云(gitee.com)是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 500 万的开发者选择码云。
+- name: Coding
+  img: https://ae01.alicdn.com/kf/Hf4a158d295c948bfabf53e754048e569M.png
+  url: https://coding.net/
+  description: Coding.net 是一个面向开发者的云端开发平台，提供 Git/SVN 代码托管、任务管理、在线 WebIDE、Cloud Studio、开发协作、文件管理、Wiki 管理、提供个人服务及企业版本的服务
+- name: Github
+  img: https://ae01.alicdn.com/kf/H0d4ea9fd5682460bb0dac60137376a37H.png
+  url: https://github.com/
+  description: GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.
+- name: Fast
+  img: https://ae01.alicdn.com/kf/H78a10b65a1ce4e57abc310dc42991f69E.png
+  url: https://fast.io/
+  description: Reimagine File Sharing; Host PDFs, videos, images, etc. on a super fast global network. Keep your file sharing on-brand, in-channel, and capturing value.
+- name: Vercel
+  img: https://ae01.alicdn.com/kf/Hfe6251603ed446848e99364bafeff3d7n.png
+  url: https://vercel.com/
+  description: 曾经的zeit，速度还可以。
+- name: Netlify
+  img: https://ae01.alicdn.com/kf/H68cb1b17450c401e9edcfaf88fea4446M.png
+  url: https://www.netlify.com/
+  description: 免费服务，速度稍稍有点慢
+
+- name: 持续集成服务 Travis CI
+  img: https://cdn.travis-ci.org/images/ui/travis-ci-logo-34114c551e92df51f9e499528b29e81e.svg
+  url: https://travis-ci.org/
+  description: 持续集成服务 Travis CI

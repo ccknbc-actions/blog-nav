@@ -1,0 +1,95 @@
+- name: iconfont
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/iconfont.png
+  url: http://www.iconfont.cn/
+  description: 阿里巴巴矢量图标库
+
+- name: 小康的 Font Awesome 5 图标速查
+  img: https://ae01.alicdn.com/kf/H139ad2194f9547d7b43005c8e18f048cR.png
+  url: https://dh.xiaokang.me/font5/
+  description: 简单快速的使用Font Awesome 5 图标
+
+- name: Font Awesome 5 中文文档
+  img: https://ae01.alicdn.com/kf/U2b267f8ebe6740f5aa0306f1375611a3B.jpg
+  url: https://fa5.dashgame.com/#/%E5%9B%BE%E6%A0%87
+  description: Font Awesome 5 中文文档
+
+- name: Font Awesome5图标库
+  img: https://ae01.alicdn.com/kf/H139ad2194f9547d7b43005c8e18f048cR.png
+  url: https://fontawesome.com/icons?d=gallery&g=hands&m=free
+  description: 快速查询Font Awesome5的图标
+
+- name: REMIX ICON
+  img: https://ae03.alicdn.com/kf/Hcd12c43a45e14e629c0d46f3e1ec6be8r.jpg
+  url: https://remixicon.com/
+  description: Simply Delightful Icon System
+
+- name: easyicon
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/easyicon.png
+  url: http://www.easyicon.net/
+  description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+- name: Pixivic
+  img: https://ae01.alicdn.com/kf/Hbd3f63cbdb504d288a5d6a6877eaa7ffa.png
+  url: https://pixivic.com/
+  description: 提供Pixiv插画排行榜的浏览与下载以及热门排序的高级会员搜索
+- name: Pixiv
+  img: https://ae01.alicdn.com/kf/Hbd44886d24af40c3ac19af6b373d37204.png
+  url: https://www.pixiv.net/
+  description: 由日本艺术家所组成的虚拟社群
+- name: Pinterest
+  img: https://ae01.alicdn.com/kf/H007c1d984d47401591376258699206a9j.png
+  url: https://www.pinterest.com/
+  description: 瀑布流的形式展现图片内容，无需用户翻页，新的图片不断自动加载在页面底端
+- name: wallhaven顶部图
+  img: https://ae01.alicdn.com/kf/Hf887c2db312d40d1b5d27297a1edbeedu.png
+  url: https://wallhaven.cc/toplist?page=3
+  description: Most popular uploaded Wallpapers
+- name: Unsplash
+  img: https://ae01.alicdn.com/kf/H7a74de7359e04abf8d1f46cd1d1f4709E.png
+  url: https://unsplash.com/
+  description: Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+- name: Colorhub
+  img: https://ae01.alicdn.com/kf/H0d8df69ba23c4a2baac8b0fac568b33e6.png
+  url: https://www.colorhub.me/
+  description: 高清无版权图片，个人和商业用途免费
+- name: Pexels
+  img: https://ae01.alicdn.com/kf/H9a8321e954a74cd69b104685ae1eb185t.png
+  url: https://www.pexels.com/zh-cn/
+  description: 免费素材照片，可以在任何地方使用。✓ 免费用于商业用途 ✓ 无需注明归属
+- name: Pixabay
+  img: https://ae01.alicdn.com/kf/Hf57f57b587d44f3f97ad41ca64ef9617B.png
+  url: https://pixabay.com/
+  description: Stunning free images & royalty free stock
+- name: WallpaperHub
+  img: https://ae01.alicdn.com/kf/He027a64143464cc6ae5dbfbc3f589b795.png
+  url: https://wallpaperhub.app/
+  description: Download free wallpapers for your PC, phone and tablet.
+- name: Behance
+  img: https://ae01.alicdn.com/kf/Hf346fa9eae04495ea907707c4e6ba130g.png
+  url: https://www.behance.net/
+  description: Behance 作品精选
+- name: 站酷 (ZCOOL)
+  img: https://ae01.alicdn.com/kf/H00876c41539945cdbf3ddef8e09450b9r.png
+  url: https://www.zcool.com.cn/
+  description: 站酷 (ZCOOL)，中国设计师互动平台。深耕设计领域十四年，站酷聚集了1100万设计师、摄影师、插画师、艺术家、创意人，设计创意群体中具有较高的影响力与号召力。
+- name: 特效背景生成
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/18/e16fe2c09d2be01b4b6d1a584f0110ad.png
+  url: https://coolbackgrounds.io/
+  description: Cool Backgrounds
+- name: 拟物风格生成
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/18/4079717c93f498bd2098c03f8a966e39.png
+  url: https://neumorphism.io/
+  description: Generate Soft-UI CSS code
+
+- name: Backiee
+  img: https://files.alexhchu.com/2020/08/18/293e8388a6a9a.png
+  url: https://backiee.com/
+  description: The ultimate free wallpaper site and app. Available on Web, iPhone, Android, Xbox, and Windows platform as well
+
+- name: Desktop Wallps
+  img: https://files.alexhchu.com/2020/08/18/280462535a19d.png
+  url: http://desktop.hdwallps.com/
+  description: HD Wallpaper For Desktop Background
+- name: wallpaperaccess
+  img: https://files.alexhchu.com/2020/08/18/280462535a19d.png
+  url: https://wallpaperaccess.com/
+  description: Only the best wallpapers. Daily additions of new, awesome, HD wallpapers for desktop and phones.
