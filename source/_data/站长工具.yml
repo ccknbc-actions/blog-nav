@@ -1,0 +1,33 @@
+- name: 百度统计
+  img: https://ae01.alicdn.com/kf/Hf5e27f5664224eb191b198587dbc66e11.png
+  url: https://tongji.baidu.com/web/27949022/welcome/login?castk=2a52dss7e8b9c992dd870
+  description: 百度家的站长工具
+- name: 百度站长链接提交
+  img: https://ae01.alicdn.com/kf/Hf5e27f5664224eb191b198587dbc66e11.png
+  url: https://ziyuan.baidu.com/badlink/index
+  description: 提交你的网址给百度
+- name: Google Analysis
+  img: https://ae01.alicdn.com/kf/H55745a0d424543c2bc73d499ef251ce6C.png
+  url: https://analytics.google.com/analytics/web/#/report-home/a165270509w231087874p217342758
+  description: Google家的站长分析！
+- name: Google Search
+  img: https://ae01.alicdn.com/kf/H55745a0d424543c2bc73d499ef251ce6C.png
+  url: https://search.google.com/
+  description: Google搜索的数据分析！
+- name: cron-job
+  img: https://ae01.alicdn.com/kf/H705a128bc4094bcaa9f1c42cb87084d85.png
+  url: https://cron-job.org/
+  description: Free cronjobs - from minutely to once a year
+- name: Uptime Robot
+  img: https://ae03.alicdn.com/kf/U0384ac615a68409cb9b5fe811d9eedc5I.jpg
+  url: https://uptimerobot.com/
+  description: 50 Monitors, Checked Every 5 Minutes, Totally Free!
+
+- name: 测吧
+  img: https://files.alexhchu.com/2020/08/18/f17cbfd8faae9.png
+  url: http://www.ce8.com/http
+  description: 测一下 · 网站速度
+- name: 谷歌网站测速
+  img: https://files.alexhchu.com/2020/08/18/33acec4202456.png
+  url: https://www.googlespeed.cn/
+  description: 谷歌网站测速 PageSpeed Insights - Google网页性能优化测试

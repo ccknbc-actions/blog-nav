@@ -1,0 +1,24 @@
+- name: 百度
+  url: https://www.baidu.com/
+  img: https://ae01.alicdn.com/kf/H6d3bd3e03248435093f50778ec671168w.png
+  description: 全球最大的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
+
+- name: Google
+  url: http://www.google.com/
+  img: https://ae01.alicdn.com/kf/H45049bc315ee413f828f84ce0c6c512fu.png
+  description: 全球最大的搜索引擎
+
+- name: Magi
+  url: https://magi.com/
+  img: https://ae01.alicdn.com/kf/H464757e38e2d43c588d2e1b884ff7c98h.png
+  description: 用 AI 梳理互联网的知识引擎 - Magi 通过机器学习将互联网上的海量信息构建成可解析、可检索、可溯源的结构化知识体系。
+
+- name: 多吉搜索
+  url: https://www.dogedoge.com/
+  img: https://ae01.alicdn.com/kf/H5129f54c91f2446c8976e0fd3e8bded4A.png
+  description: 多吉搜索 — 不追踪，不误导
+
+- name: Goobe
+  url: https://goobe.io
+  img: https://ae01.alicdn.com/kf/H64da78b9c15f42b1804745e0a8fa6476L.png
+  description: 为程序员服务的互联网搜索引擎

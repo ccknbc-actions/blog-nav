@@ -1,0 +1,64 @@
+- name: 阿里云
+  img: https://ae01.alicdn.com/kf/H3388ad3aea834d2dbc173620539adaecX.png
+  url: https://www.aliyun.com/
+  description: 全球领先的云计算及人工智能科技公司，阿里云为200多个国家和地区的企业、开发者和政府机构提供云计算基础服务及解决方案。阿里云云计算、安全、大数据、人工智能、企业应用、物联网等云计算服务。
+
+- name: 腾讯云
+  img: https://ae01.alicdn.com/kf/H63879ef7df4e4a0d8848c51b619c36195.png
+  url: https://cloud.tencent.com/
+  description: 腾讯云为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。
+
+- name: 西部数码
+  img: https://ae01.alicdn.com/kf/H2476fa8e14fe4df0ba5c4fee04c41489N.jpg
+  url: https://www.west.cn/
+  description: 西部数码用户中心是西部数码用户管理后台，可在这里对个人帐号、域名、云服务器、虚拟主机、网站等进行修改和管理
+
+- name: LeanCloud
+  img: https://ae01.alicdn.com/kf/H15d07cd5b0254e50b57ef28a55f8fbfaV.png
+  url: https://leancloud.cn/
+  description: LeanCloud 为应用开发提供一站式解决方案，包括：数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务，让开发者彻底抛弃后端负担，专注于提升用户体验，最大限度提升产品发布、迭代周期，在市场上占领先机。
+
+- name: DNSPod
+  img: https://ae04.alicdn.com/kf/U9f79ca1667e74fd7aba82a8ab6ba4719g.jpg
+  url: https://www.dnspod.cn/
+  description: DNSPod是国内提供智能DNS产品的网站，致力于为各类网站提供高质量的电信、网通、教育网双线或者三线智能DNS免费解析。目前DNSPod已经是国内最大的免费DNS解析产品提供商
+
+- name: 又拍云
+  img: https://ae03.alicdn.com/kf/Ue5b939c07c9040209ee5a35ab402f83bz.jpg
+  url: https://console.upyun.com/register/?invite=SJBGIgQ6I
+  description: 国内知名企业级云服务商,在全球拥有1100多个自建CDN节点,10TB保有带宽,为25万用户提供CDN,云存储,HTTPS／SSL证书,WebP,云处理,短视频开发SDK,直播开发SDK,DDos高防等一站式加速解决方案!
+
+- name: dynadot
+  img: https://ae01.alicdn.com/kf/H7d54b7b0f0e64197b6862b1430a0b6fcI.png
+  url: https://www.dynadot.com/zh/
+  description: 注册域名，赠送建站工具！Dynadot帮您轻轻松松制作精美网站！今天就注册域名，启动您的网站吧！
+
+- name: cloudflare
+  img: https://ae04.alicdn.com/kf/Ub33818daa339436b8a1bf30b2032cc2dR.jpg
+  url: https://www.cloudflare.com/
+  description: Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site
+
+- name: namecheap
+  img: https://ae02.alicdn.com/kf/Ue132bd56457045a985e759e7634999f35.jpg
+  url: https://www.namecheap.com/
+  description: Buy a domain name and create your website today.
+
+- name: godaddy
+  img: https://ae01.alicdn.com/kf/U99566564f4d64a849a620cb67baf9781A.jpg
+  url: https://sg.godaddy.com/zh
+  description: GoDaddy致力于服务中小企业,近1,900万客户在此建立线上业务.提供域名注册申请,域名查询,域名买卖交易,域名转移,虚拟主机,VPS服务器,SSL证书,网站建设,外贸cms建站等一站式服务.域名购买,海外主机,企业建站请访问GoDaddy官网
+
+- name: freenom - 人人都熟悉的名字
+  img: https://ae01.alicdn.com/kf/H16c10e578e5046cea972eca16d1499f7n.png
+  url: https://www.freenom.com/
+  description: Freenom是世界上第一个也是唯一的免费域名提供商。 我们的使命是把互联网带给世界人民，帮助各国发展自己的数字经济
+
+- name: Free Web Hosting
+  img: https://ae01.alicdn.com/kf/H90861c9264ff48d0aa061ee5570d65232.png
+  url: https://www.000webhost.com/
+  description: Absolutely free web hosting with cPanel, PHP &amp; MySQL for a stunning blogging start. Get free website hosting together with a free domain name at no cost at all!
+
+- name: 笨牛网 免费CloudFlare CDN 防御系统
+  img: http://cdn.bnxb.com/img/logo1.png
+  url: http://cdn.bnxb.com/
+  description: 笨牛网免费CDN基于CloudFlare授权合作伙伴计划 ,支持批量添加域名,批量添加IP黑名单,railgun加速,DNS/CNAME/IP三种方式高速接入CF全球CDN加速防御体系,同时提供免费的DNS托管管理控制面板

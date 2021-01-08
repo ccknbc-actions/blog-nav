@@ -1,0 +1,19 @@
+- name: peise
+  img: https://ae01.alicdn.com/kf/Hfd1b76bfbfa448eb84132a08feb75468Y.png
+  url: http://www.peise.net/
+  description: 在线配色
+
+- name: webkul
+  img: https://ae01.alicdn.com/kf/Hebaaa27db8974449ad28d818d5660fb15.png
+  url: https://webkul.github.io/coolhue/
+  description: Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css or download as image too.
+
+- name: uigradients
+  img: https://ae01.alicdn.com/kf/H9231fd2d81e04b2a9e705e7261e5aeb5E.png
+  url: https://uigradients.com/
+  description: uiGradients is a handpicked collection of beautiful color gradients for designers and developers.
+
+- name: adobe color
+  img: https://ae01.alicdn.com/kf/Hca2e611ffa2e413ba5d892dc2404ad0a4.png
+  url: https://color.adobe.com/
+  description: Adobe家的配色
