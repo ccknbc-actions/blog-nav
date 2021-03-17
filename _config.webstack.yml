@@ -1,5 +1,5 @@
 favicon: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
-banner: https://cdn.jsdelivr.net/gh/ccknbc/daohang/images/webstack_banner_cn.png
+banner: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/webstack_banner_cn.png
 
 logo:
   expanded: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
@@ -128,19 +128,19 @@ custom:
     
 
 js:
-  header: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/header.min.js
-  footer: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/footer.min.js
+  header: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/header.min.js
+  footer: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/footer.min.js
   jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
-  bootstrap: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/bootstrap.min.js
-  TweenMax: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/TweenMax.min.js
-  resizeable: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/resizeable.min.js
-  joinable: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/joinable.min.js
-  xenonApi: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/xenon-api.min.js
-  xenonToggles: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/xenon-toggles.min.js
-  xenonCustom: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/xenon-custom.min.js
-  lozad: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/lozad.min.js
-  html5shiv: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/html5shiv.min.js
-  respond: https://cdn.jsdelivr.net/gh/ccknbc/daohang/js/respond.min.js
+  bootstrap: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/bootstrap.min.js
+  TweenMax: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/TweenMax.min.js
+  resizeable: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/resizeable.min.js
+  joinable: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/joinable.min.js
+  xenonApi: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-api.min.js
+  xenonToggles: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-toggles.min.js
+  xenonCustom: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-custom.min.js
+  lozad: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/lozad.min.js
+  html5shiv: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/html5shiv.min.js
+  respond: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   # header: /js/header.js
   # footer: /js/footer.js
@@ -158,12 +158,12 @@ js:
   # busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/hclonely.min.css
+  hclonely: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/hclonely.min.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/bootstrap.min.css
-  xenonCore: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/xenon-core.min.css
-  xenonComponents: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/xenon-components.min.css
-  xenonSkins: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/xenon-skins.min.css
-  nav: https://cdn.jsdelivr.net/gh/ccknbc/daohang/css/nav.min.css
+  linecons: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/bootstrap.min.css
+  xenonCore: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-core.min.css
+  xenonComponents: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-components.min.css
+  xenonSkins: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-skins.min.css
+  nav: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/nav.min.css
