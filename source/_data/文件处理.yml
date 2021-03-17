@@ -30,7 +30,7 @@
 
 - name: tinypng
   url: https://tinypng.com/
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/tinypng.png
+  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/tinypng.png
   description: Optimize your images with a perfect balance in quality and file size.
 
 - name: 最优图片优化
@@ -45,7 +45,7 @@
 
 - name: 稿定抠图
   url: https://www.gaoding.com
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/gaoding.png
+  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/gaoding.png
   description: 免费在线抠图软件,图片快速换背景-抠白底图
 
 - name: 字体子集生成器

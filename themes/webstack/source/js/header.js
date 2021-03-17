@@ -3,8 +3,8 @@ function search() {
     var listIndex = -1;
     var hotList = 0;
     var searchData = {
-        "thisSearch": "https://google.iapk.cc/search?q=",
-        "thisSearchIcon": "url('/images/search_icon.png') -105px 0px",
+        "thisSearch": "https://www.baidu.com/s?wd=",
+        "thisSearchIcon": "url('/images/search_icon.png')",
         "hotStatus": true,
         "data": [{
             name: "百度",
@@ -12,10 +12,10 @@ function search() {
             position: "0px 0px",
             url: "https://www.baidu.com/s?wd="
         }, {
-            name: "谷歌（直连）",
+            name: "谷歌",
             img: "url('/images/search_icon.png')  -105px 0px",
             position: "-40px 0px",
-            url: "https://google.iapk.cc/search?q="
+            url: "https://www.google.com/search?q="
         }, {
             name: "必应",
             img: "url('/images/search_icon.png')  -80px -25px",
@@ -83,6 +83,10 @@ function search() {
             url: "https://github.com/search?utf8=✓&q="
         }]
     };
+    var localSearchData = localStorage.getItem("searchData");
+    if (localSearchData) {
+        searchData = JSON.parse(localSearchData)
+    }
     function filterChildren(element) {
         var thisText = $(element).contents().filter(function (index, content) {
             return content.nodeType === 3
