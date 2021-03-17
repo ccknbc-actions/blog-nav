@@ -1,6 +1,6 @@
 - name: docsmall
   url: https://docsmall.com/
-  img: https://ae02.alicdn.com/kf/Ue573a7cd3c5e45c1bd673e392625d734t.jpg
+  img: https://cdn.docsmall.com/assets/img/33d17c9.png
   description: 免费在线图片压缩、GIF压缩工具、PDF压缩工具、PDF合并工具、PDF分割工具
 
 - name: HTML转PUG
@@ -30,7 +30,7 @@
 
 - name: tinypng
   url: https://tinypng.com/
-  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/tinypng.png
+  img: https://tinypng.com/images/apng/panda-waving.png
   description: Optimize your images with a perfect balance in quality and file size.
 
 - name: 最优图片优化
@@ -45,7 +45,7 @@
 
 - name: 稿定抠图
   url: https://www.gaoding.com
-  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/gaoding.png
+  img: https://st-gdx.dancf.com/assets/20190910-143541-210a.png
   description: 免费在线抠图软件,图片快速换背景-抠白底图
 
 - name: 字体子集生成器
@@ -55,5 +55,5 @@
 
 - name: 字体子集生成器
   url: https://en.m.fontke.com/tool/subfont/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/8c045fbabfb40f3ea65242502ce43de1.png
+  img: https://statics.fontke.com/fontke/images/in-logo.png
   description: 使用此免费在线SVG 至PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单，无需安装任何软件。

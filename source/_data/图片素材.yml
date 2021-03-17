@@ -1,5 +1,5 @@
 - name: iconfont
-  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/iconfont.png
+  img: https://img.alicdn.com/imgextra/i3/O1CN01Mn65HV1FfSEzR6DKv_!!6000000000514-55-tps-228-59.svg
   url: http://www.iconfont.cn/
   description: 阿里巴巴矢量图标库
 
@@ -9,7 +9,7 @@
   description: 简单快速的使用Font Awesome 5 图标
 
 - name: Font Awesome 5 中文文档
-  img: https://ae01.alicdn.com/kf/U2b267f8ebe6740f5aa0306f1375611a3B.jpg
+  img: https://ae01.alicdn.com/kf/H139ad2194f9547d7b43005c8e18f048cR.png
   url: https://fa5.dashgame.com/#/%E5%9B%BE%E6%A0%87
   description: Font Awesome 5 中文文档
 
@@ -19,12 +19,12 @@
   description: 快速查询Font Awesome5的图标
 
 - name: REMIX ICON
-  img: https://ae03.alicdn.com/kf/Hcd12c43a45e14e629c0d46f3e1ec6be8r.jpg
+  img: https://remixicon.com/favicon.ico
   url: https://remixicon.com/
   description: Simply Delightful Icon System
 
 - name: easyicon
-  img: https://cdn.jsdelivr.net/gh/ccknbc/daohang/assets/images/logos/easyicon.png
+  img: https://cdn-img.easyicon.net/image/2019/easyicon-logo.svg
   url: http://www.easyicon.net/
   description: PNG、ICO、ICNS格式图标搜索、图标下载服务
 - name: Pixivic
@@ -71,10 +71,6 @@
   img: https://ae01.alicdn.com/kf/H00876c41539945cdbf3ddef8e09450b9r.png
   url: https://www.zcool.com.cn/
   description: 站酷 (ZCOOL)，中国设计师互动平台。深耕设计领域十四年，站酷聚集了1100万设计师、摄影师、插画师、艺术家、创意人，设计创意群体中具有较高的影响力与号召力。
-- name: 特效背景生成
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/18/e16fe2c09d2be01b4b6d1a584f0110ad.png
-  url: https://coolbackgrounds.io/
-  description: Cool Backgrounds
 - name: 拟物风格生成
   img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/18/4079717c93f498bd2098c03f8a966e39.png
   url: https://neumorphism.io/
