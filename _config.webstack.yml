@@ -126,7 +126,7 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: CC康纳百川
-    url: https://blog.ccknbc.cc
+    url: https://www.ccknbc.cc
     img: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
     description: 一个无趣的人
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'

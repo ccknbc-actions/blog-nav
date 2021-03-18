@@ -6,6 +6,18 @@
   img: https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/blog.svg
   url: https://blog.ccknbc.cc
   description: CC的部落格
+- name: CC的部落格 语雀站
+  img: https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*dbj2Tp-tmVgAAAAAAAAAAABkARQnAQ
+  url: https://www.yuque.com/ccknbc
+  description: 在线编辑语雀站
+- name: CC的部落格 后台
+  img: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
+  url: https://blog.ccknbc.workers.dev/hpp/admin/dash/edit
+  description: HexoPlusPlus
+- name: Disqus 评论管理
+  img: https://c.disquscdn.com/next/current/home/img/brand/favicon-192x192.png
+  url: https://ccknbc.disqus.com/admin/moderate/approved
+  description: CC的部落格 Disqus 评论管理
 - name: CC的网站状态监控
   img: https://uptimerobot.com/assets/images/cron-job-monitoring.svg
   url: https://status.ccknbc.cc
@@ -18,15 +30,3 @@
   img: https://uchi-ui.us-east-1.prod.public.atl-paas.net/android-chrome-256x256.png
   url: https://ccknbc.statuspage.io/
   description: CC的网站事件记录与推送
-- name: Waline 评论管理
-  img: https://p5.ssl.qhimg.com/t01ec54674f5912eea9.png
-  url: https://waline.ccknbc.ml/ui
-  description: CC的部落格 Waline 评论管理
-- name: CC的部落格 语雀站
-  img: https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*dbj2Tp-tmVgAAAAAAAAAAABkARQnAQ
-  url: https://www.yuque.com/ccknbc
-  description: 在线编辑语雀站
-- name: CC的部落格 后台
-  img: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
-  url: https://blog.ccknbc.workers.dev/hpp/admin/dash/edit
-  description: HexoPlusPlus
