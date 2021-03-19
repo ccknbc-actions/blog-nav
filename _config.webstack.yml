@@ -30,72 +30,72 @@ menu:
       - name: 朋友推荐
         icon: fas fa-tools
         config: 朋友推荐
-  - name: 常用工具
-    icon: far fa-star
-    submenu:
-      - name: 手册速查
-        icon: fas fa-book
-        config: 手册速查
-      - name: 参考资料
-        icon: fas fa-book
-        config: 参考资料
-      - name: 图床工具
-        icon: fas fa-file-image
-        config: 图床工具
-      - name: 站长工具
-        icon: fas fa-tools
-        config: 站长工具
-      - name: 网络资源
-        icon: fas fa-tools
-        config: 网络资源
-      - name: 主机域名
-        icon: fas fa-tools
-        config: 主机域名
-  - name: 线上操作
-    icon: far fa-star
-    submenu:
-      - name: 邮箱相关
-        icon: fas fa-envelope
-        config: 邮箱相关
-      - name: 在线写作
-        icon: fas fa-edit
-        config: 在线写作
-      - name: 文件处理
-        icon: fas fa-file
-        config: 文件处理
-      - name: 阅读平台
-        icon: fas fa-book-open
-        config: 阅读平台
-  - name: 程序员👨‍💻
-    icon: far fa-star
-    submenu:
-      - name: API接口
-        icon: fas fa-tools
-        config: API接口
-      - name: 搜索引擎
-        icon: fas fa-search
-        config: 搜索引擎
-      - name: 资源存储
-        icon: fas fa-cloud
-        config: 资源存储
-      - name: 程序员
-        icon: fas fa-code-branch
-        config: 程序员
-      - name: 开源项目
-        icon: fas fa-code
-        config: 开源项目
-      - name: 捷径直达
-        icon: fas fa-space-shuttle
-        config: 捷径直达
-  - name: 素材资源
-    icon: far fa-star
-    submenu:
-      - name: 图片素材
-        icon: fas fa-tools
-        config: 图片素材
-      - name: 渐变配色
-        icon: fas fa-tools
-        config: 渐变配色
+  # - name: 常用工具
+  #   icon: far fa-star
+  #   submenu:
+  #     - name: 手册速查
+  #       icon: fas fa-book
+  #       config: 手册速查
+  #     - name: 参考资料
+  #       icon: fas fa-book
+  #       config: 参考资料
+  #     - name: 图床工具
+  #       icon: fas fa-file-image
+  #       config: 图床工具
+  #     - name: 站长工具
+  #       icon: fas fa-tools
+  #       config: 站长工具
+  #     - name: 网络资源
+  #       icon: fas fa-tools
+  #       config: 网络资源
+  #     - name: 主机域名
+  #       icon: fas fa-tools
+  #       config: 主机域名
+  # - name: 线上操作
+  #   icon: far fa-star
+  #   submenu:
+  #     - name: 邮箱相关
+  #       icon: fas fa-envelope
+  #       config: 邮箱相关
+  #     - name: 在线写作
+  #       icon: fas fa-edit
+  #       config: 在线写作
+  #     - name: 文件处理
+  #       icon: fas fa-file
+  #       config: 文件处理
+  #     - name: 阅读平台
+  #       icon: fas fa-book-open
+  #       config: 阅读平台
+  # - name: 程序员👨‍💻
+  #   icon: far fa-star
+  #   submenu:
+  #     - name: API接口
+  #       icon: fas fa-tools
+  #       config: API接口
+  #     - name: 搜索引擎
+  #       icon: fas fa-search
+  #       config: 搜索引擎
+  #     - name: 资源存储
+  #       icon: fas fa-cloud
+  #       config: 资源存储
+  #     - name: 程序员
+  #       icon: fas fa-code-branch
+  #       config: 程序员
+  #     - name: 开源项目
+  #       icon: fas fa-code
+  #       config: 开源项目
+  #     - name: 捷径直达
+  #       icon: fas fa-space-shuttle
+  #       config: 捷径直达
+  # - name: 素材资源
+  #   icon: far fa-star
+  #   submenu:
+  #     - name: 图片素材
+  #       icon: fas fa-tools
+  #       config: 图片素材
+  #     - name: 渐变配色
+  #       icon: fas fa-tools
+  #       config: 渐变配色
 
 testPage:
   - name: Child Page
