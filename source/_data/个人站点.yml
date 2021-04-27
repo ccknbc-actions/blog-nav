@@ -12,7 +12,7 @@
   description: 在线编辑语雀站
 - name: CC的部落格 后台
   img: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
-  url: https://blog.ccknbc.workers.dev/hpp/admin/dash/edit
+  url: https://hpp.ccknbc.workers.dev/hpp/admin/dash/edit
   description: HexoPlusPlus
 - name: Disqus 评论管理
   img: https://c.disquscdn.com/next/current/home/img/brand/favicon-192x192.png
