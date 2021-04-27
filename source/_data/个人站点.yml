@@ -20,7 +20,7 @@
   description: CC的部落格 Disqus 评论管理
 - name: CC的网站状态监控
   img: https://uptimerobot.com/assets/images/cron-job-monitoring.svg
-  url: https://status.ccknbc.cc
+  url: https://stats.uptimerobot.com/Wop33SjO6Z
   description: CC的网站状态监控
 - name: CC的网站证书监控
   img: https://www.sslforfree.com/assets/images/sslforfree_icon.svg
