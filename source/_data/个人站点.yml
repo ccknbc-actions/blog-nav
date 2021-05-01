@@ -27,6 +27,6 @@
   url: https://ssl.ccknbc.cc
   description: CC的网站证书监控
 - name: CC的网站事件
-  img: https://uchi-ui.us-east-1.prod.public.atl-paas.net/android-chrome-256x256.png
-  url: https://ccknbc.statuspage.io/
+  img: https://instatus.com/apple-touch-icon.png
+  url: https://cc.instatus.com/
   description: CC的网站事件记录与推送

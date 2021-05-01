@@ -6,11 +6,11 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = git@github.com:ccknbc-actions/blog-daohang.git
+	url = git@github.com:ccknbc-actions/blog-nav.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-	url = git@e.coding.net:ccknbc/blog/blog-daohang.git
-	url = git@gitee.com:ccknbc/blog-daohang.git
-	url = git@gitlab.com:ccknbc/daohang.git
+	url = git@e.coding.net:ccknbc/blog/blog-nav.git
+	url = git@gitee.com:ccknbc/nav.git
+	url = git@gitlab.com:ccknbc/nav.git
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
