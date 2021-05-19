@@ -51,9 +51,11 @@ jobs:
     - name: Deploy
       run: |
         cd ./public
+        git config --global init.defaultBranch master
+        git config --global http.postBuffer 524288000
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git init
-        git config --global user.name "ccknbc"
-        git config --global user.email '${{ secrets.GIT_EMAIL }}'
         git add -A
         git commit -m "Updated By Github Actions"
         git push --force --quiet "https://ccknbc:${{ secrets.GH_TOKEN }}@github.com/ccknbc/nav.git" master:master
