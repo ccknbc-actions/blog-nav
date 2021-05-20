@@ -59,8 +59,8 @@ jobs:
         git add -A
         git commit -m "Updated By Github Actions"
         git push --force --quiet "https://ccknbc:${{ secrets.GH_TOKEN }}@github.com/ccknbc/nav.git" master:master
-        git push --force --quiet "https://ccknbc:${{ secrets.GT_TOKEN }}@gitee.com/ccknbc/nav.git" master:master
         git push --force --quiet "https://${{ secrets.CD_USER }}:${{ secrets.CD_TOKEN }}@e.coding.net/ccknbc/blog/nav.git" master:master
+        git push --force --quiet "https://ccknbc:${{ secrets.GT_TOKEN }}@gitee.com/ccknbc/nav.git" master:master
 
     - name: Update Gitee Pages
       uses: yanglbme/gitee-pages-action@master
