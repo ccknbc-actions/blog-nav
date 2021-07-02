@@ -1,0 +1,24 @@
+- name: 百度网盘
+  url: https://pan.baidu.com/
+  img: https://ae01.alicdn.com/kf/H6d3bd3e03248435093f50778ec671168w.png
+  description: 网盘,百度网盘,网络U盘,网络硬盘,免费网盘,网盘下载,网盘资源,同步,云存储,外链分享,离线下载
+
+- name: Firefox Send
+  url: https://send.firefox.com/
+  img: https://ae01.alicdn.com/kf/H0496ec17fec94d1fb1fd526fb1d9d417Z.png
+  description: Firefox Send
+
+- name: 蓝奏云
+  url: https://www.lanzou.com/
+  img: https://ae01.alicdn.com/kf/H3a77f1c676d64eca9abd74a070a818c7U.png
+  description: 天下武功，唯快不破！
+
+- name: OneDrive教育版
+  url: https://login.microsoftonline.com/
+  img: https://ae01.alicdn.com/kf/Hb529d38288354f3597a46aa2cdbd69fex.png
+  description: 微软5T学生版
+
+- name: Office 开发者订阅
+  url: https://developer.microsoft.com/zh-cn/microsoft-365/dev-program
+  img: https://ae01.alicdn.com/kf/Hb529d38288354f3597a46aa2cdbd69fex.png
+  description: 微软5T学生版

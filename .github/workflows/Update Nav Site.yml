@@ -1,0 +1,84 @@
+name: Update Nav Site
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+    inputs:
+      name:
+        description: '手动触发'
+        required: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@main
+      with:
+        ref: master
+
+    - name: Setup Node
+      uses: actions/setup-node@main
+      with:
+        node-version: "16.x"
+
+    - name: Catch
+      uses: actions/cache@main
+      id: cache-dependencies
+      with:
+        path: node_modules
+        key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+
+    - name: Install Dependencies
+      if: steps.cache-dependencies.outputs.cache-hit != 'true'
+      run: |
+        npm install
+
+    - name: Generate
+      run: |
+        npm run clean
+        npm run build
+        gulp
+
+    - name: Deploy
+      run: |
+        cd ./public
+        git config --global init.defaultBranch master
+        git config --global http.postBuffer 524288000
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git init
+        git add -A
+        git commit -m "Updated By Github Actions"
+        git push --force --quiet "https://ccknbc:${{ secrets.GH_TOKEN }}@github.com/ccknbc/nav.git" master:master
+        git push --force --quiet "https://${{ secrets.CD_USER }}:${{ secrets.CD_TOKEN }}@e.coding.net/ccknbc/blog/nav.git" master:master
+        git push --force --quiet "https://ccknbc:${{ secrets.GT_TOKEN }}@gitee.com/ccknbc/nav.git" master:master
+
+    - name: Update Gitee Pages
+      uses: yanglbme/gitee-pages-action@master
+      with:
+          gitee-username: ccknbc
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: ccknbc/nav
+
+# git clone https://github.com/CCKNBC/daohang.git public
+
+    - name: Delete Workflow Runs
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 5
+        keep_minimum_runs: 6
+
+    - name: Telegram Notification
+      if: cancelled() == false
+      uses: xinthink/action-telegram@v1.1
+      with:
+        botToken: ${{ secrets.TG_BOT_TOKEN }}
+        chatId: ${{ secrets.TG_CHAT_ID }}
+        jobStatus: ${{ job.status }}
+        skipSuccess: false

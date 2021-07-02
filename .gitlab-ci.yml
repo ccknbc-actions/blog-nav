@@ -1,0 +1,16 @@
+image: node:latest
+
+pages:
+  script:
+    - test -e package.json && npm install && npm install -g gulp
+    - npm run build
+    - gulp
+  artifacts:
+    paths:
+      - public
+  cache:
+    paths:
+      - node_modules
+    key: project
+  only:
+    - master

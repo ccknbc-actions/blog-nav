@@ -1,0 +1,24 @@
+- name: ES6 入门教程
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://docs.tzki.cn/es6/
+  description: 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+
+- name: Pug 模板引擎中文文档
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
+  url: https://www.pugjs.cn/api/getting-started.html
+  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
+
+- name: npm 中文文档
+  img: https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png
+  url: https://www.npmjs.cn/
+  description: npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。
+
+- name: webpack
+  img: https://www.webpackjs.com/32dc115fbfd1340f919f0234725c6fb4.png
+  url: https://www.webpackjs.com/concepts/
+  description: webpack 是一个现代 JavaScript 应用程序的静态模块打包器(module bundler)
+
+- name: mongoosejs
+  img: http://mongoosejs.net/docs/images/favicon/android-icon-192x192.png
+  url: http://mongoosejs.net/
+  description: 让我们面对这样的困境, 编写MongoDB验证，转换和业务逻辑是非常麻烦的. 所以我们发明了Mongoose.

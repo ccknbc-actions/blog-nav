@@ -1,0 +1,44 @@
+- name: CSS参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference
+  description: 快速进入MDN的CSS参考手册
+- name: Web API参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/API
+  description: 快速进入MDN的Web API参考
+- name: 事件参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/Events
+  description: 快速进入MDN的事件参考
+- name: Git book
+  img: https://git-scm.com/images/logo@2x.png
+  url: https://git-scm.com/book/zh/
+  description: 官方Git教程
+- name: Staticfile CDN
+  img: https://ae01.alicdn.com/kf/Hebf9e5b0992e452fb0af9f0584d256b7g.png
+  url: https://www.staticfile.org/
+  description: 免费、快速、开放的 CDN 服务
+- name: 又拍云JS库加速服务
+  img: https://ae01.alicdn.com/kf/H0961ac0c572b4caea27e77a47f152b19U.png
+  url: http://jscdn.upai.com/
+  description: APP界面截图参考
+- name: Can I use
+  img: https://ae01.alicdn.com/kf/H21eee713a2274f1596f73d434f76ad4aw.png
+  url: https://caniuse.com/
+  description: Can I use... Support tables for HTML5, CSS3, etc
+- name: loveit主题文档
+  img: https://ae01.alicdn.com/kf/H543d959aabea41a99084438bd8201e85t.png
+  url: https://hugoloveit.com/zh-cn/categories/documentation/
+  description: loveit主题使用文档
+- name: volantis主题使用文档
+  img: https://ae01.alicdn.com/kf/H0e73137a5f9f418b8836a02d84aa33b7r.png
+  url: https://volantis.js.org/v2/getting-started/
+  description: Volantis，一个高度模块化和可定制化、功能相对完善的 Hexo 博客主题，既可以用作个人博客，也适合用来搭建文档。
+- name: Butterfly主题使用文档
+  img: https://ae01.alicdn.com/kf/H99319ea2b765474192fe44b570df44c6G.png
+  url: https://docs.jerryc.me/#/
+  description: 一個簡潔、卡片式設計的Hexo主題
+- name: 小康的butterfly食用手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/3b43914f/index.html
+  description: 小康的主题食用文档，不一定所有人哦！

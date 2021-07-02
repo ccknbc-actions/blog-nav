@@ -1,0 +1,32 @@
+- name: CC的主页
+  img: https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/home.svg
+  url: https://www.ccknbc.cc
+  description: CC康纳百川
+- name: CC的部落格
+  img: https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/blog.svg
+  url: https://blog.ccknbc.cc
+  description: CC的部落格
+- name: CC的部落格 语雀站
+  img: https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*dbj2Tp-tmVgAAAAAAAAAAABkARQnAQ
+  url: https://www.yuque.com/ccknbc
+  description: 在线编辑语雀站
+- name: CC的部落格 后台
+  img: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
+  url: https://hpp.ccknbc.workers.dev/hpp/admin/dash/edit
+  description: HexoPlusPlus
+- name: Disqus 评论管理
+  img: https://c.disquscdn.com/next/current/home/img/brand/favicon-192x192.png
+  url: https://ccknbc.disqus.com/admin/moderate/approved
+  description: CC的部落格 Disqus 评论管理
+- name: CC的网站状态监控
+  img: https://uptimerobot.com/assets/images/cron-job-monitoring.svg
+  url: https://stats.uptimerobot.com/Wop33SjO6Z
+  description: CC的网站状态监控
+- name: CC的网站证书监控
+  img: https://www.sslforfree.com/assets/images/sslforfree_icon.svg
+  url: https://ssl.ccknbc.cc
+  description: CC的网站证书监控
+- name: CC的网站事件
+  img: https://instatus.com/apple-touch-icon.png
+  url: https://cc.instatus.com/
+  description: CC的网站事件记录与推送

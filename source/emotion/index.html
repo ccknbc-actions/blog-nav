@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>小康博客表情速查</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <style>
+        ul,
+        li {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            float: left;
+        }
+
+        .item {
+            width: 102px;
+            height: 107px;
+            position: relative;
+        }
+
+        .item .img {
+            text-align: center;
+            position: relative;
+            width: 102px;
+            height: 107px;
+            max-width: 100%;
+        }
+
+        .item img {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        .item .button {
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.7);
+            text-align: center;
+            display: none;
+            width: 100%;
+            height: 100%;
+            color: white;
+        }
+
+        .item .button span {
+            display: block;
+            line-height: 36px;
+            cursor: pointer;
+        }
+
+        .item .button span:hover {
+            background: rgba(255, 0, 0, 0.7);
+        }
+
+        .item .img:hover .button {
+            display: block;
+        }
+
+        /* 页脚 */
+        .footer {
+            margin-top: 150px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #49b1f5;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/favicon.ico"
+        type="image/x-icon">
+</head>
+
+<body>
+    <div class="container">
+        <h2>网络评论表情速查小工具</h2><br><!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#common_img">常用表情</a></li>
+            <li class="nav-item"><a class="nav-link all_img active" data-toggle="tab" href="#all_img">全部表情</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#copy_all">复制全部</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#copy_common">复制常用</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#menu2">标签分类</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#notice">公告板</a></li>
+        </ul><!-- 常用 -->
+        <div class="tab-content">
+            <div id="common_img" class="container tab-pane"><br>
+                <ul class="block-icon-list clearfix">
+                    <!-- 此处插入图片列表 -->
+                </ul>
+            </div><!-- 全部 -->
+            <div id="all_img" class="container tab-pane fade active show"><br>
+                <div id="aru" class="container tab-pane"><br>
+                    <ul class="block-icon-list clearfix">
+                        <!-- 此处插入图片列表 -->
+                    </ul>
+                </div>
+            </div><!-- 标签 -->
+            <div id="menu2" class="container tab-pane fade"><br>
+                <h3>关于此系统</h3>
+                <p>此系统仅为<a href="https://www.antmoe.com" target="_blank">Dreamy.TZK</a>方便查询表情制作</p>
+                <p>使用过程中，如果有问题请在<a href="https://www.antmoe.com/contact/" target="_blank">留言板</a>留言</p>
+                <p>所有图片来源于网络，侵删</p>
+                <div class="btns"></div>
+            </div>
+            <div id="copy_all" class="container tab-pane fade"><br>
+                <h3>关于复制的基本内容</h3>
+                <p>此系统仅为<a href="https://www.antmoe.com" target="_blank">Dreamy.TZK</a>方便查询表情制作</p>
+                <p>使用过程中，如果有问题请在<a href="https://www.antmoe.com/contact/" target="_blank">留言板</a>留言</p>
+                <p>所有图片来源于网络，侵删</p>
+                <p>在此提供的复制内容，可以直接粘贴到 <a href="https://github.com/jerryc127/hexo-theme-butterfly"
+                        target="_blank">butterfly</a> 主题的自定义表情配置文件（理论上json格式均可）。如果你没有使用此主题，或者配置信息不太对，建议更换<a
+                        href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank">butterfly</a>主题</p>
+                <textarea class="form-control" id="url_list" cols="100" rows="30"></textarea>
+            </div>
+            <div id="copy_common" class="container tab-pane fade"><br>
+                <h3>关于复制的基本内容</h3>
+                <p>此系统仅为<a href="https://www.antmoe.com" target="_blank">Dreamy.TZK</a>方便查询表情制作</p>
+                <p>使用过程中，如果有问题请在<a href="https://www.antmoe.com/contact/" target="_blank">留言板</a>留言</p>
+                <p>所有图片来源于网络，侵删</p>
+                <p>在此提供的复制内容，可以直接粘贴到 <a href="https://github.com/jerryc127/hexo-theme-butterfly"
+                        target="_blank">butterfly</a> 主题的自定义表情配置文件（理论上json格式均可）。如果你没有使用此主题，或者配置信息不太对，建议更换<a
+                        href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank">butterfly</a>主题</p>
+                <div id="warn"></div><textarea class="form-control" id="common_list" cols="100" rows="30"></textarea>
+            </div>
+            <div id="notice" class="container tab-pane fade"><br>
+                <div class="notice"></div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer"></footer>
+    <script>var clipboard = new ClipboardJS(".copy"); clipboard.on("success", function (o) { console.info("Action:", o.action), console.info("Text:", o.text), console.info("Trigger:", o.trigger), o.clearSelection(), alert("ok") }), clipboard.on("error", function (o) { console.error("Action:", o.action), console.error("Trigger:", o.trigger) })</script>
+    <!-- <script src="./static/main.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>function init(n) { $.ajax({ url: n, type: "get", success: function (n) { var t = ""; $(".btns").html(""); var a = n.data; for (var i in a) t = `<button type="button" class="btn btn-outline-info" onclick='getImg("${a[i].url}")'>${a[i].name}</button>`, $(".btns").append(t); $(".btns button:first").trigger("click"), getNotice() } }) } function getNotice() { $.ajax({ url: "https://gitee.com/api/v5/repos/antmoe/speak/issues/I1S7BF", type: "get", success: function (n) { $("#notice").html(marked(n.body)) } }) } function getImg(n) { $("#aru>ul").html(""), $("#common_img>ul").html(""), $.ajax({ url: cdn + n, type: "get", success: function (t) { console.log(t); var a = t.all, i = t.common; insertImg("#aru", "#url_list", a, n, name), insertImg("#common_img", "#common_list", i, n, name), $(".all_img").trigger("click") } }) } function insertImg(n, t, a, i, s) { var c = {}; for (var o in a) { i = a[o].url, s = a[o].name || "小康博客-" + o; var e = `<li class="item">\n        <div class="img">\n            <img src="${i}"\n                class="all_img">\n            <div class="button">\n                <span class="copy"\n                    data-clipboard-text="${i}">链接</span>\n                <span class="copy"\n                    data-clipboard-text="<img src='${i}' alt='${s}'>">IMG标签</span>\n                <span class="copy"\n                    data-clipboard-text="![${s}](${i})">Markdown</span>\n            </div>\n        </div>\n        </li>`; $(`${n}>ul`).append(e), c[s] = i } $(t).text(JSON.stringify(c)) } var cdn = "https://unpkg.com/iemotion"; init(cdn + "/name.json");</script>
+    <!-- <script>var notice = document.getElementsByClassName("notice"); notice[0].innerHTML = notice[0].textContent</script> -->
+</body>
+
+</html>
