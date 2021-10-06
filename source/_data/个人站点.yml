@@ -16,7 +16,7 @@
   description: HexoPlusPlus
 - name: Disqus 评论管理
   img: https://c.disquscdn.com/next/current/home/img/brand/favicon-192x192.png
-  url: https://ccknbc.disqus.com/admin/moderate/approved
+  url: https://ccknbc.disqus.com/admin/moderate/all
   description: CC的部落格 Disqus 评论管理
 - name: CC的网站状态监控
   img: https://uptimerobot.com/assets/images/cron-job-monitoring.svg
