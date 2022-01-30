@@ -24,7 +24,7 @@
     "url": "https://github.com/HCLonely/hexo-theme-webstack.git"
   },
   "devDependencies": {
-    "clean-css-cli": "5.5.1",
+    "clean-css-cli": "5.5.2",
     "ejs-lint": "1.2.1",
     "uglify-js": "3.15.0"
   }
