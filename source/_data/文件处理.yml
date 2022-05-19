@@ -5,7 +5,7 @@
 
 - name: HTML转PUG
   url: https://html2pug.now.sh/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
+  img: https://test1.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
   description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
 
 - name: CSS转scss/sass
@@ -50,7 +50,7 @@
 
 - name: 字体子集生成器
   url: https://en.m.fontke.com/tool/subfont/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/b69d18f0cad47fad5fd7e9447d9a5069.png
+  img: https://test1.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/b69d18f0cad47fad5fd7e9447d9a5069.png
   description: 字客网字体子集生成器可以让用户抽出一个字体文件里想要的字，再组成精减的字体文件，十分适合制作网页字体。操作简单，快捷，只需输入想要抽取的字，之后一键生成。
 
 - name: 字体子集生成器
