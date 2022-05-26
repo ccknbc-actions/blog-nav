@@ -1,5 +1,5 @@
 - name: 本站源码
-  img: https://test1.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/c8b71d3d1df519256a9e7858363d6c12.png
+  img: https://gcore.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/c8b71d3d1df519256a9e7858363d6c12.png
   url: https://github.com/sviptzk/dh.xiaokang.me
   description: 如果你对本站感兴趣，那么你可以clone本站托管到自己的仓库。
 - name: Hexo-Butterfly主题
@@ -8,7 +8,7 @@
   description: 一個簡潔、卡片式設計的Hexo主題
 
 - name: Hexo-volantis主题
-  img: https://test1.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+  img: https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
   url: https://github.com/volantis-x/hexo-theme-volantis/
   description: volantis
 

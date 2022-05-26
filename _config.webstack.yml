@@ -1,10 +1,10 @@
-favicon: https://test1.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
-banner: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/webstack_banner_cn.png
+favicon: https://gcore.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+banner: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/webstack_banner_cn.png
 
 logo:
-  expanded: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo@2x.png
-  collapsed: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo-collapsed@2x.png
-  dark: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo_dark@2x.png
+  expanded: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo@2x.png
+  collapsed: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo-collapsed@2x.png
+  dark: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -100,18 +100,18 @@ menu:
 testPage:
   - name: Child Page
     url: /child
-    img: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
+    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
     description: 子页面测试
 devTools:
   - name: Github
     url: https://github.com/
-    img: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
+    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
 myBlog:
   - name: CC的部落格
     url: https://blog.ccknbc.cc/
-    img: https://test1.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+    img: https://gcore.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
     description: 一个懒人的博客。
 
 about:
@@ -127,7 +127,7 @@ aboutPage:
     head: 关于站长
     name: CC康纳百川
     url: https://www.ccknbc.cc
-    img: https://test1.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+    img: https://gcore.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
     description: 一个无趣的人
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
@@ -144,19 +144,19 @@ custom:
     
 
 js:
-  header: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/header.min.js
-  footer: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/footer.min.js
-  jquery: https://test1.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
-  bootstrap: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/bootstrap.min.js
-  TweenMax: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/TweenMax.min.js
-  resizeable: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/resizeable.min.js
-  joinable: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/joinable.min.js
-  xenonApi: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-api.min.js
-  xenonToggles: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-toggles.min.js
-  xenonCustom: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-custom.min.js
-  lozad: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/lozad.min.js
-  html5shiv: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/html5shiv.min.js
-  respond: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/respond.min.js
+  header: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/header.min.js
+  footer: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/footer.min.js
+  jquery: https://gcore.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
+  bootstrap: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/bootstrap.min.js
+  TweenMax: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/TweenMax.min.js
+  resizeable: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/resizeable.min.js
+  joinable: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/joinable.min.js
+  xenonApi: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-api.min.js
+  xenonToggles: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-toggles.min.js
+  xenonCustom: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/xenon-custom.min.js
+  lozad: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/lozad.min.js
+  html5shiv: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/html5shiv.min.js
+  respond: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   # header: /js/header.js
   # footer: /js/footer.js
@@ -174,12 +174,12 @@ js:
   # busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/hclonely.min.css
+  hclonely: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/hclonely.min.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/bootstrap.min.css
-  xenonCore: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-core.min.css
-  xenonComponents: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-components.min.css
-  xenonSkins: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-skins.min.css
-  nav: https://test1.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/nav.min.css
+  linecons: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/bootstrap.min.css
+  xenonCore: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-core.min.css
+  xenonComponents: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-components.min.css
+  xenonSkins: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/xenon-skins.min.css
+  nav: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/css/nav.min.css
