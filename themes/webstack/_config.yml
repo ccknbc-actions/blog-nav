@@ -1,10 +1,10 @@
-favicon: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/favicon.ico
-banner: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/webstack_banner_cn.png
+favicon: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/favicon.ico
+banner: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/webstack_banner_cn.png
 
 logo:
-  expanded: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo@2x.png
-  collapsed: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo-collapsed@2x.png
-  dark: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo_dark@2x.png
+  expanded: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo@2x.png
+  collapsed: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo-collapsed@2x.png
+  dark: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logo_dark@2x.png
 
 flag:
   - name: Chinese
@@ -47,22 +47,22 @@ menu:
 testPage:
   - name: Child Page
     url: /child
-    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
+    img: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
     description: 子页面测试
 devTools:
   - name: Github
     url: https://github.com/
-    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
+    img: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
   - name: Github
     url: https://github.com/
-    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
+    img: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
 myBlog:
   - name: HCLonely Blog
     url: https://blog.hclonely.com/
-    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myBlog.png
+    img: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myBlog.png
     description: 一个懒人的博客。
 
 about:
@@ -78,7 +78,7 @@ aboutPage:
     head: 关于站长
     name: HCLonely
     url: https://blog.hclonely.com/
-    img: https://gcore.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
+    img: https://cdn.jsdelivr.net/gh/ccknbc-actions/blog-daohang@master/themes/webstack/source/images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 

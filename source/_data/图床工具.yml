@@ -11,10 +11,10 @@
   url: https://www.99yyw.com/tu/
   description: 拥有阿里图床、京东、网易等多个图床。
 - name: 坏男孩的Github图床
-  img: https://gcore.jsdelivr.net/gh/yumusb/blog_img/avatar.jpg
+  img: https://cdn.jsdelivr.net/gh/yumusb/blog_img/avatar.jpg
   url: http://pic.i5.gs/
   description: 一个简单的GitHub图床
 - name: 吹逼图床
-  img: https://gcore.jsdelivr.net/gh/yumusb/blog_img/avatar.jpg
+  img: https://cdn.jsdelivr.net/gh/yumusb/blog_img/avatar.jpg
   url: https://chuibi.cn/
   description: 可以定义自己的GitHub库上传
