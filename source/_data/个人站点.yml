@@ -1,9 +1,9 @@
 - name: CC的主页
-  img: https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/home.svg
+  img: https://gcore.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/home.svg
   url: https://www.ccknbc.cc
   description: CC康纳百川
 - name: CC的部落格
-  img: https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/blog.svg
+  img: https://gcore.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/blog.svg
   url: https://blog.ccknbc.cc
   description: CC的部落格
 - name: CC的部落格 语雀站
@@ -11,7 +11,7 @@
   url: https://www.yuque.com/ccknbc
   description: 在线编辑语雀站
 - name: CC的部落格 后台
-  img: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
+  img: https://gcore.jsdelivr.net/gh/HexoPlusPlus/CDN@master/doc_img/icon.png
   url: https://hpp.ccknbc.workers.dev/hpp/admin/dash/edit
   description: HexoPlusPlus
 - name: Disqus 评论管理
