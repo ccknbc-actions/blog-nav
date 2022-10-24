@@ -26,6 +26,6 @@
   "devDependencies": {
     "clean-css-cli": "4.3.0",
     "ejs-lint": "2.0.0",
-    "uglify-js": "3.17.3"
+    "uglify-js": "3.17.4"
   }
 }
