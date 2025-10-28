@@ -25,7 +25,7 @@ jobs:
     - name: Setup Node
       uses: actions/setup-node@main
       with:
-        node-version: "22.x"
+        node-version: "24.x"
 
     - name: Catch
       uses: actions/cache@main
